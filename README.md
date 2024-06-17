@@ -9,6 +9,6 @@
 <ul>
   <li><p><b>1_funcion.js:</b> Se modifica una función declarada, con el fin de tener una expresada en un archivo js.</p></li>
   <li><p><b>2_arrow.js:</b> Se modifica de una declaración de función anónima asignada a una variable, con el fin de tener una arrow function.</p></li>
-  <li><p><b>pintar.html:</b> Al hacer clic sobre el div que contiene el texto "hello", su fondo torna el color amarillo, aunque en la función por defecto se tiene el color verde.</p></li>
+  <li><p><b>pintar.html:</b> Al hacer clic sobre el div que contiene el texto "hello", su fondo torna el color amarillo. <br>Aunque en la función por defecto se tiene el color verde.</p></li>
   <li><p><b>4_colores.html:</b> Al hacer clic sobre los divs coloreados, se tornan negros. <br>Además, presionar las teclas a,s & d, el cuarto div originalmente blanco se torna rosa, naranjo y celeste respectivamente. <br>Finalmente, al presionar las teclas q,w & e, se generan nuevos divs cuyos colores son morado, gris y café respectivamente.</p></li>
 </ul>
