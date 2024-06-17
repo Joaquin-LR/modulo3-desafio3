@@ -1,5 +1,5 @@
 <h1>Desafío 3: Funciones</h1>
-<p>Hecho por Joaquín López Rojas para Academia Desafío Latam, Bootcamp Fullstack Javascript, Módulo 3: Javascript para la web (G68).</p>
+<p>Hecho por Joaquín López Rojas para Academia Desafío Latam, Bootcamp Fullstack Javascript,<br>Módulo 3: Javascript para la web (G68).</p>
 
 <h2>Link Deploy</h2>
 <p>https://joaquin-lr.github.io/modulo3-desafio3/</p>
